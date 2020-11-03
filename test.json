@@ -1,146 +1,142 @@
 {
   "root": {
     "msg": {
-      "uuid":"0000",
-      "puuid":"000",
+      "uuid":"00000",
+      "puuid":"0000",
       "name":"root",
       "md5":"1111",
-      "size":"",
+      "size":"0",
       "times":"0",
-      "updatetime":"2020-01-01 15:00",
-      "createtime":"2020-01-01 15:00",
+      "updatetime":"2020-01-01 15:00:00",
+      "createtime":"2020-01-01 15:00:00",
       "type":"0"
     },
     "dir1": {
       "msg": {
-        "uuid":"0001",
-        "puuid":"0000",
+        "uuid":"00001",
+        "puuid":"00000",
         "name":"dir1",
-        "md5":"1110",
-        "size":"",
+        "md5":"11110",
+        "size":"0",
         "times":"0",
-        "updatetime":"",
-        "createtime":"",
+        "updatetime":"2020-01-01 15:00:00",
+        "createtime":"2020-01-01 15:00:00",
         "type":"0"
       },
       "dir4": {
         "msg": {
-          "uuid":"",
-          "puuid":"",
-          "name":"",
-          "md5":"",
-          "size":"",
+          "uuid":"00100",
+          "puuid":"00001",
+          "name":"dir4",
+          "md5":"11011",
+          "size":"0",
           "times":"0",
-          "updatetime":"",
-          "createtime":"",
+          "updatetime":"2020-01-01 15:00:00",
+          "createtime":"2020-01-01 15:00:00",
           "type":"0"
         },
         "dir8": {
           "msg": {
-            "uuid":"",
-            "puuid":"",
-            "name":"",
-            "md5":"",
-            "size":"",
+            "uuid":"01000",
+            "puuid":"00100",
+            "name":"dir8",
+            "md5":"10111",
+            "size":"0",
             "times":"0",
-            "updatetime":"",
-            "createtime":"",
+            "updatetime":"2020-01-01 15:00:00",
+            "createtime":"2020-01-01 15:00:00",
             "type":"0"
           }
         },
         "file2": {
           "msg": {
-            "uuid":"",
-            "puuid":"",
-            "name":"",
-            "md5":"",
-            "size":"",
+            "uuid":"11101",
+            "puuid":"00100",
+            "name":"file2",
+            "md5":"10110",
+            "size":"15",
             "times":"0",
-            "updatetime":"",
-            "createtime":"",
+            "updatetime":"2020-01-01 15:00:00",
+            "createtime":"2020-01-01 15:00:00",
             "type":"1"
           }
         }
       },
       "dir5": {
         "msg": {
-          "uuid":"",
-          "puuid":"",
-          "md5":"",
-          "size":"",
-          "times":"",
-          "updatetime":"",
-          "createtime":"",
+          "uuid":"00101",
+          "puuid":"00001",
+          "name":"dir5",
+          "md5":"11010",
+          "size":"0",
+          "times":"0 ",
+          "updatetime":"2020-01-01 15:00:00",
+          "createtime":"2020-01-01 15:00:00",
           "type":"0"
         }
       }
     },
     "dir2": {
       "msg": {
-        "uuid":"",
-        "puuid":"",
-        "useruuid":"",
-        "name":"",
-        "md5":"",
-        "size":"",
-        "times":"",
-        "updatetime":"",
-        "createtime":"",
+        "uuid":"00010",
+        "puuid":"00001",
+        "name":"dir2",
+        "md5":"11101",
+        "size":"0",
+        "times":"0",
+        "updatetime":"2020-01-01 15:00:00",
+        "createtime":"2020-01-01 15:00:00",
         "type":"0"
       },
       "dir6": {
         "msg": {
-          "uuid":"",
-          "puuid":"",
-          "useruuid":"",
-          "name":"",
-          "md5":"",
-          "size":"",
-          "times":"",
-          "updatetime":"",
-          "createtime":"",
+          "uuid":"00110",
+          "puuid":"00010",
+          "name":"dir6",
+          "md5":"11001",
+          "size":"0",
+          "times":"0",
+          "updatetime":"2020-01-01 15:00:00",
+          "createtime":"2020-01-01 15:00:00",
           "type":"0"
         }
       }
     },
     "dir3": {
       "msg": {
-        "uuid":"",
-        "puuid":"",
-        "useruuid":"",
-        "name":"",
-        "md5":"",
-        "size":"",
-        "times":"",
-        "updatetime":"",
-        "createtime":"",
+        "uuid":"00011",
+        "puuid":"00000",
+        "name":"dir3",
+        "md5":"11100",
+        "size":"0",
+        "times":"0",
+        "updatetime":"2020-01-01 15:00:00",
+        "createtime":"2020-01-01 15:00:00",
         "type":"0"
       },
       "dir7": {
         "msg": {
-          "uuid":"",
-          "puuid":"",
-          "useruuid":"",
-          "name":"",
-          "md5":"",
-          "size":"",
-          "times":"",
-          "updatetime":"",
-          "createtime":"",
+          "uuid":"00111",
+          "puuid":"00011",
+          "name":"dir7",
+          "md5":"11000",
+          "size":"0",
+          "times":"0",
+          "updatetime":"2020-01-01 15:00:00",
+          "createtime":"2020-01-01 15:00:00",
           "type":"0"
         }
       },
       "file1": {
         "msg": {
-          "uuid":"",
-          "puuid":"",
-          "useruuid":"",
-          "name":"",
-          "md5":"",
-          "size":"",
-          "times":"",
-          "updatetime":"",
-          "createtime":"",
+          "uuid":"11110",
+          "puuid":"00011",
+          "name":"file1",
+          "md5":"00001",
+          "size":"10",
+          "times":"0",
+          "updatetime":"2020-01-01 15:00:00",
+          "createtime":"2020-01-01 15:00:00",
           "type":"1"
         }
       }
