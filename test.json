@@ -1,0 +1,149 @@
+{
+  "root": {
+    "msg": {
+      "uuid":"0000",
+      "puuid":"000",
+      "name":"root",
+      "md5":"1111",
+      "size":"",
+      "times":"0",
+      "updatetime":"2020-01-01 15:00",
+      "createtime":"2020-01-01 15:00",
+      "type":"0"
+    },
+    "dir1": {
+      "msg": {
+        "uuid":"0001",
+        "puuid":"0000",
+        "name":"dir1",
+        "md5":"1110",
+        "size":"",
+        "times":"0",
+        "updatetime":"",
+        "createtime":"",
+        "type":"0"
+      },
+      "dir4": {
+        "msg": {
+          "uuid":"",
+          "puuid":"",
+          "name":"",
+          "md5":"",
+          "size":"",
+          "times":"0",
+          "updatetime":"",
+          "createtime":"",
+          "type":"0"
+        },
+        "dir8": {
+          "msg": {
+            "uuid":"",
+            "puuid":"",
+            "name":"",
+            "md5":"",
+            "size":"",
+            "times":"0",
+            "updatetime":"",
+            "createtime":"",
+            "type":"0"
+          }
+        },
+        "file2": {
+          "msg": {
+            "uuid":"",
+            "puuid":"",
+            "name":"",
+            "md5":"",
+            "size":"",
+            "times":"0",
+            "updatetime":"",
+            "createtime":"",
+            "type":"1"
+          }
+        }
+      },
+      "dir5": {
+        "msg": {
+          "uuid":"",
+          "puuid":"",
+          "md5":"",
+          "size":"",
+          "times":"",
+          "updatetime":"",
+          "createtime":"",
+          "type":"0"
+        }
+      }
+    },
+    "dir2": {
+      "msg": {
+        "uuid":"",
+        "puuid":"",
+        "useruuid":"",
+        "name":"",
+        "md5":"",
+        "size":"",
+        "times":"",
+        "updatetime":"",
+        "createtime":"",
+        "type":"0"
+      },
+      "dir6": {
+        "msg": {
+          "uuid":"",
+          "puuid":"",
+          "useruuid":"",
+          "name":"",
+          "md5":"",
+          "size":"",
+          "times":"",
+          "updatetime":"",
+          "createtime":"",
+          "type":"0"
+        }
+      }
+    },
+    "dir3": {
+      "msg": {
+        "uuid":"",
+        "puuid":"",
+        "useruuid":"",
+        "name":"",
+        "md5":"",
+        "size":"",
+        "times":"",
+        "updatetime":"",
+        "createtime":"",
+        "type":"0"
+      },
+      "dir7": {
+        "msg": {
+          "uuid":"",
+          "puuid":"",
+          "useruuid":"",
+          "name":"",
+          "md5":"",
+          "size":"",
+          "times":"",
+          "updatetime":"",
+          "createtime":"",
+          "type":"0"
+        }
+      },
+      "file1": {
+        "msg": {
+          "uuid":"",
+          "puuid":"",
+          "useruuid":"",
+          "name":"",
+          "md5":"",
+          "size":"",
+          "times":"",
+          "updatetime":"",
+          "createtime":"",
+          "type":"1"
+        }
+      }
+    }
+  }
+}
